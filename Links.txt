@@ -1,0 +1,13 @@
+
+Método clustering
+https://youtu.be/s6PSSzeUMFk
+
+
+K means con imagenes (Numeros escritos a mano)
+https://youtu.be/KQlncNXh_Mc
+
+k means
+https://youtu.be/5QZHS3BYqww
+
+Mini Batches K mean
+https://youtu.be/SmI8CmKrFzA
